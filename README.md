@@ -1,1 +1,3 @@
-# VR-projet
+# Deuce Striker
+
+## Arborescence du projet
