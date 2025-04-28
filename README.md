@@ -1,6 +1,7 @@
 # Deuce Striker
 
 ## Arborescence du projet
+```
 Assets
 ├── External Assets
 │   └── SkySeries Freebee (Pack gratuit de Skyboxs)
@@ -47,3 +48,4 @@ Assets
 ├── TextMeshPro
 ├── XR
 └── XRI
+```
