@@ -1,0 +1,34 @@
+{
+    "name": "MenuButton",
+    "maps": [
+        {
+            "name": "MenuButton",
+            "id": "a7f50c53-c00a-4fbf-9e8f-c7bb13fa574a",
+            "actions": [
+                {
+                    "name": "Menu",
+                    "type": "Button",
+                    "id": "bb2596ac-12f5-4a27-8202-c1deb9277349",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1d75f106-8445-450b-ad2a-5db9432d0e8b",
+                    "path": "<XRController>{LeftHand}/{MenuButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
