@@ -31,17 +31,20 @@ Assets
 ├── Samples (Pack pour utiliser XR)
 ├── Scripts
 │   ├── BallSpawnOnOutput.cs // Permet de faire apparaitre et lancer une balle
+│   ├── BallSpawnOnOutputLH.cs // Même chose mais pour l'autre main
 │   ├── changeHand.cs // Intervertir les mains
 │   ├── changeTimeOnLoad.cs // Changer la skybox en fonction du temps choisi
 │   ├── Pause.cs // Mettre le jeu en pause
 │   ├── ScenesLoader.cs // Changer de scene, c'est un script pour le menu principal
 │   ├── ScoreManager.cs // Comme son nom l'indique il permet de gérer les scores et de les afficher
 │   ├── Target.cs // Pour gérer les cibles : les détruire et octroyer des points au joueur
+│   ├── HideOnLoad.cs // Pour cacher les éléments qu'on souhaite au joueur pour le menu
 │   ├── TargetSpawner.cs // Pour faire apparaître les cibles aléatoirement sur le mur
 │   ├── TennisRacket.cs // Toute la gestion de la vitesse de frappe est dans ce script
 │   └── TimeChanger.cs // Meme principe que TimeChanger mais pour la scène principal cette fois-ci
 ├── SFX
 │   ├── Musics
+│       ├── Game Music.mp3 // Musique du jeu
 │       └── Planet Superstars - Sega Superstars.mp3 // Musique du menu principal
 │   ├── Sound Effects
 │       └── BallHit.mp3 // Bruit d'impact de la balle sur la raquette
